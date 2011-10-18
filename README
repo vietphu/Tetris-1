@@ -1,0 +1,9 @@
+This project is an (take a deep breath)  open-source, object-oriented, cross-platform, native C++ implementation of the core Tetris-style game logic,
+with some room for feature additions.
+
+////////////////////////
+HOW TO BUILD
+////////////////////////
+
+#1. Download Cmake.
+#2. As soon as I actually add Cmake, I'll put something meaningful here.
