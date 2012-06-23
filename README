@@ -1,3 +1,5 @@
+Since the great HDD failure of 2010, there's been a severe lack of motivation to re-do this project. What lies in this repo is what i've gotten around to re-building so far.
+
 This project is an (take a deep breath)  open-source, object-oriented, cross-platform, native C++ implementation of the core Tetris-style game logic, with some room for feature additions.
 
 ////////////////////////
